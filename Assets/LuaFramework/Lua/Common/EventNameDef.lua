@@ -1,0 +1,8 @@
+
+EventNameDef =
+{
+    LUA_NETWORK_RESEND_SUCCESSFULLY = "LUA_NETWORK_RESEND_SUCCESSFULLY",
+}
+
+
+-- endregion

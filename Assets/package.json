@@ -1,0 +1,10 @@
+﻿{
+  "name": "com.unityxframework",
+  "displayName": "Rotate Me",
+  "description": "Rotate the object!",
+  "version": "1.0.0",
+  "unity": "2022.2",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
